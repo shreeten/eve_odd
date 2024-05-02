@@ -1,6 +1,7 @@
 # eve_odd
-<br>
+
 this is the code to find if the number is even or odd
+<br>
 a=int(input("Enter the number you wanna check: "))
 if a%2 ==0:
     print("The given Number",a,"is Even")
